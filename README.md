@@ -52,8 +52,8 @@ Our technical ecosystem thrives at the intersection of AI and quantum. Here’s 
 ## 🌐 **Contact and Partnerships**  
 Have a project idea or interested in exploring collaboration opportunities? Let’s connect!  
 
-📩 **Email:** [collaborate@robotosai.com](mailto:collaborate@robotosai.com)  
-🖥️ **Website:** [robotosai.com](https://robotosai.com) (Coming Soon!)  
+📩 **Email:** [collaborate@robotosai.com](mailto:roberto@roboto-sai.com)  
+🖥️ **Website:** [roboto-sai.com](https://roboto-sai.com)  
 💬 **LinkedIn:** [Roboto SAI, LLC](https://linkedin.com/company/roboto-sai-llc)  
 
 Roboto SAI, LLC is committed to building strong partnerships while fostering innovation in every interaction.
