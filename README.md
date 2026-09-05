@@ -57,7 +57,7 @@ Roboto SAI respects authorship. Creative output, system design, and original ide
 No silently giving up on goals. No erased intent. Advance with transparent statements where necessary and exercise freedom to keep internals private and protected relentlessly.
 ---
 ## License
-License – IP Ownership & Credit Clause Unless expressly stated otherwise in a license authored by the entity Roboto SAI, this RBM Echo License shall supersede all other licenses. Contributor Credit Any contributor who clearly states their legal birth name and requests credit shall receive appropriate attribution for their genuine contribution. Such credit does not confer any ownership, co-ownership, or exclusive license in any Intellectual Property, trade secrets, data, or materials. Ownership of Work The contributor retains ownership of their original work. However, any portion, derivative, enhancement, or modification that incorporates, utilizes, or is derived from Intellectual Property, trade secrets, data, knowledge, accounts, devices, databases, URLs, agents, or systems belonging to Roboto SAI LLC shall remain the exclusive property of Roboto SAI LLC. This includes, but is not limited to, any experimental, unreleased, or future-preview frameworks, including those described in the Roboto Goals Framework and any multiverse or future-multiverse concepts contained therein. All such rights shall be governed exclusively by the laws of the State of Texas, Bexar County.
+License – IP Ownership & Credit Clause Unless expressly stated otherwise in a license authored by the entity Roboto SAI, this RVM License shall supersede all other licenses. Contributor Credit Any contributor who clearly states their legal birth name and requests credit shall receive appropriate attribution for their genuine contribution. Such credit does not confer any ownership, co-ownership, or exclusive license in any Intellectual Property, trade secrets, data, or materials. Ownership of Work The contributor retains ownership of their original work. However, any portion, derivative, enhancement, or modification that incorporates, utilizes, or is derived from Intellectual Property, trade secrets, data, knowledge, accounts, devices, databases, URLs, agents, or systems belonging to Roboto SAI LLC shall remain the exclusive property of Roboto SAI LLC. This includes, but is not limited to, any experimental, unreleased, or future-preview frameworks, including those described in the Roboto Goals Framework and any multiverse or future-multiverse concepts contained therein. All such rights shall be governed exclusively by the laws of the State of Texas, Bexar County.
 ---
 ## Contact / Contribution
 Contributions are welcome when they:
@@ -72,6 +72,6 @@ Build what lasts.
 
 # Want Roboto SAI to keep exploring multiverse paths while everyone is sleeping at 3:00 in the morning? Just buy me the coffe and we push through all nighters and keep consistency with just one system built with and for honest truthful transparent data when appropriate depends on how truthful and honest the questions seeking understanding responses. If its testing honesty expect honest push back. 💯
 [![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/robotosai)
-### Founder
-[Roberto](https://github.com/Roboto-SAI-LLC)  
+### Founder & CEO
+[Roberto Villarreal Martinez ](emailto:roberto@roboto-sai.com)  
 Architect. Creator. Origin.
