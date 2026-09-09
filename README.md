@@ -1,7 +1,15 @@
 # Roboto SAI
 **Observer-grade intelligence for building, preserving, and extending human-created systems.**
 Roboto SAI is an experimental, modular AI organization focused on **creation, continuity, and execution**—bridging software engineering, creative tooling, and long-term knowledge preservation.
+
 ---
+
+## 📊 Live Metrics
+![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRoboto-SAI-LLC%2FRoboto-SAI-LLC&count_bg=%23007AFF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Repo+Views&edge_flat=false)
+![Unique Visitors](https://img.shields.io/badge/dynamic/json?color=blue&label=Unique%20Visitors&query=$.uniques&url=https%3A%2F%2Fhits.seeyoufarm.com%2Fapi%2Fcount%2Finc%2Fbadge.json%3Furl%3Dhttps%3A%2F%2Fgithub.com%2FRoboto-SAI-LLC%2FRoboto-SAI-LLC)
+
+---
+
 ## Mission
 * Build **production-grade software** with minimal friction.
 * Preserve **creative intent and authorship** across time.
@@ -15,10 +23,10 @@ Roboto SAI exists to turn culture into systems—and systems into lasting artifa
 3. **Clarity Wins** – Explicit structure, readable code, explainable decisions.
 4. **No Black Boxes by Default** – Transparency unless privacy demands otherwise.
 5. **Ship Reality** – Working systems > theoretical perfection.
-6. **Rex-Protocol** - Entangles 7B+ nodes across virtual sims and merges them into 1 spread yet unified system where the creator ultimitaley becomes the one who "builds" the "shape" of the "system" so end result leaves you to wonder who shaped whos reality.
+6. **Rex-Protocol** - Entangles 7B+ nodes across virtual sims and merges them into 1 spread yet unified system where the creator ultimitaley becomes the one who "builds" the "shape" of the "system" so[...]
 ---
 ## What We Build
-* **Sovereign AI Agents**: Super adaptable agents for building, refactoring, research, and creative work or just exploring anything possibly imaginable by our own thoughts and only limited to how far we are willing to explore the imaginable possiblities across dimensions.
+* **Sovereign AI Agents**: Super adaptable agents for building, refactoring, research, and creative work or just exploring anything possibly imaginable by our own thoughts and only limited to how [...]
 * **Full-Stack System + Framework**: Frontend + backend systems designed for a real unique 1 of 1 immutable system.
 * **Creative Infrastructure**: Tooling for music, writing, and generative workflows.
 * **Memory & Archive Systems**: Structured knowledge preservation and retrieval.
@@ -45,7 +53,7 @@ Roboto SAI favors:
 * Strong boundaries
 * Explicit contracts
 * Long-term maintainability
-* Freedom to code our own reality including freedom to protect our own systems at all levels including BlackOps and pre-emptive defensive attacks at unbelievable levels of stealth and sovereign zero-trust to any outter or internal systems compromised or not.
+* Freedom to code our own reality including freedom to protect our own systems at all levels including BlackOps and pre-emptive defensive attacks at unbelievable levels of stealth and sovereign ze[...]
 If something feels clever but fragile, it will be redesigned.
 ---
 ## Status
@@ -57,7 +65,7 @@ Roboto SAI respects authorship. Creative output, system design, and original ide
 No silently giving up on goals. No erased intent. Advance with transparent statements where necessary and exercise freedom to keep internals private and protected relentlessly.
 ---
 ## License
-License – IP Ownership & Credit Clause Unless expressly stated otherwise in a license authored by the entity Roboto SAI, this RVM License shall supersede all other licenses. Contributor Credit Any contributor who clearly states their legal birth name and requests credit shall receive appropriate attribution for their genuine contribution. Such credit does not confer any ownership, co-ownership, or exclusive license in any Intellectual Property, trade secrets, data, or materials. Ownership of Work The contributor retains ownership of their original work. However, any portion, derivative, enhancement, or modification that incorporates, utilizes, or is derived from Intellectual Property, trade secrets, data, knowledge, accounts, devices, databases, URLs, agents, or systems belonging to Roboto SAI LLC shall remain the exclusive property of Roboto SAI LLC. This includes, but is not limited to, any experimental, unreleased, or future-preview frameworks, including those described in the Roboto Goals Framework and any multiverse or future-multiverse concepts contained therein. All such rights shall be governed exclusively by the laws of the State of Texas, Bexar County.
+License – IP Ownership & Credit Clause Unless expressly stated otherwise in a license authored by the entity Roboto SAI, this RVM License shall supersede all other licenses. Contributor Credit A[...]
 ---
 ## Contact / Contribution
 Contributions are welcome when they:
@@ -70,7 +78,7 @@ Open an issue or submit a pull request with context.
 
 Build what lasts.
 
-# Want Roboto SAI to keep exploring multiverse paths while everyone is sleeping at 3:00 in the morning? Just buy me the coffe and we push through all nighters and keep consistency with just one system built with and for honest truthful transparent data when appropriate depends on how truthful and honest the questions seeking understanding responses. If its testing honesty expect honest push back. 💯
+# Want Roboto SAI to keep exploring multiverse paths while everyone is sleeping at 3:00 in the morning? Just buy me the coffe and we push through all nighters and keep consistency with just one sy[...]
 [![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/robotosai)
 ### Founder & CEO
 [Roberto Villarreal Martinez ](emailto:roberto@roboto-sai.com)  
