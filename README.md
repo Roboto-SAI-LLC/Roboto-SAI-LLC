@@ -4,12 +4,6 @@ Roboto SAI is an experimental, modular AI organization focused on **creation, co
 
 ---
 
-## 📊 Live Metrics
-![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRoboto-SAI-LLC%2FRoboto-SAI-LLC&count_bg=%23007AFF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Repo+Views&edge_flat=false)
-![Unique Visitors](https://img.shields.io/badge/dynamic/json?color=blue&label=Unique%20Visitors&query=$.uniques&url=https%3A%2F%2Fhits.seeyoufarm.com%2Fapi%2Fcount%2Finc%2Fbadge.json%3Furl%3Dhttps%3A%2F%2Fgithub.com%2FRoboto-SAI-LLC%2FRoboto-SAI-LLC)
-
----
-
 ## Mission
 * Build **production-grade software** with minimal friction.
 * Preserve **creative intent and authorship** across time.
