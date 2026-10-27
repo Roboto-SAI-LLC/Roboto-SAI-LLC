@@ -95,6 +95,7 @@ contract RobotoSaiLicenseCall {
     error NoCredit();
     error Reentered();
     error ManifestoMismatch(); // New: ensures delivered grant aligns with our root manifesto
+    error InvalidPaymentToken();
 
     modifier nonReentrant() {
         if (_locked != 0) revert Reentered();
@@ -125,6 +126,12 @@ contract RobotoSaiLicenseCall {
         bool openToAny_
     ) {
         if (seller_ == address(0) || paymentToken_ == address(0) || seller_ == paymentToken_) revert BadParty();
+        if (paymentToken_.code.length == 0) revert InvalidPaymentToken();
+        {
+            (bool probeOk, bytes memory probeRet) =
+                paymentToken_.staticcall(abi.encodeWithSelector(0x70a08231, address(this)));
+            if (!probeOk || probeRet.length < 32) revert InvalidPaymentToken();
+        }
         if (premium_ == 0 || strike_ == 0 || termsHash_ == bytes32(0) || manifestoHash_ == bytes32(0)) revert BadTerms();
         if (expiry_ <= block.timestamp || expiry_ > block.timestamp + 366 days) revert BadTerms();
         if (deliveryWindow_ < 1 days || deliveryWindow_ > 90 days) revert BadTerms();
@@ -255,6 +262,7 @@ contract RobotoSaiLicenseCall {
     }
 
     function _balanceOf(address token, address account) private view returns (uint256) {
+        if (token.code.length == 0) revert TokenRejected();
         (bool ok, bytes memory ret) = token.staticcall(abi.encodeWithSelector(0x70a08231, account));
         if (!ok || ret.length != 32) revert TokenRejected();
         return abi.decode(ret, (uint256));
