@@ -55,7 +55,19 @@ This License grants no right in any trade secret, confidential information, sour
 
 ## 8. Payments
 
-Any fees under this License are payable only to the wallet address or account that Roboto SAI LLC specifies in a signed grant. Payment to any other destination does not satisfy Licensee's obligations. Questions may be sent to **roboto@roboto-sai.com**; this email address is for contact only and is not a payment destination.
+8.1 **Authorized Treasury Addresses.** Any fees under a signed grant are payable only to the following Roboto SAI LLC (Empire) treasury addresses, or to another address that Roboto SAI LLC confirms in a signed grant:
+
+| Network | Address |
+|---|---|
+| Ethereum (ETH / EVM) | `0xDd2DF9B060F05F149A82D877E274687c74DE62D5` |
+| Bitcoin (BTC) | `bc1qal4r6ugqzwuj3lyprq8phmvp8x9043w0a78pd5` |
+| TON | `UQCW_PJt2BmyNE7pyin-bNFO2N4NJgRiC8ruYqCESKy5ZHds` |
+
+8.2 **No Other Addresses.** Any other address is not authorized, and payment to it does not satisfy Licensee's obligations. Senders should verify the address character by character against this file before sending.
+
+8.3 **Security.** Roboto SAI LLC will never ask for private keys or seed phrases. Funds sent to a wrong network or address cannot be recovered.
+
+8.4 **Contact.** Questions may be sent to **roboto@roboto-sai.com**; this email address is for contact only and is not a payment destination.
 
 ## 9. Termination
 
@@ -97,7 +109,7 @@ For review by Roboto SAI and counsel. These notes are not part of the License te
 2. **Defined scope.** Added precise definitions of "Licensee" and "Licensed Assets," plus an explicit Third-Party Rights clause confirming the License covers only assets owned by Roboto SAI LLC.
 3. **Removed vague personal-benefit and identity clauses.** Omitted the "digital extension of consciousness" language (orig. §1, §4) and the personal-benefit/ethical-duty items (orig. §5: debt-free goals, compute, voice interface, vehicle), which are unlikely to be enforceable as written.
 4. **Removed the prior-use release.** Orig. §2 had the *Buyer* releasing claims about historical use of the founder's data/IP — which runs against the founder's interest. It has been removed entirely.
-5. **Payments clarified.** Orig. §6 directed payments to an email address; this draft requires payment only to a wallet/account specified in a signed grant and keeps the email for contact only.
+5. **Payments clarified.** Orig. §6 directed payments to an email address; this draft requires payment only to a wallet/account specified in a signed grant and keeps the email for contact only. Public Roboto SAI LLC treasury addresses (ETH/EVM, BTC, TON) were added to §8 with verification and security warnings.
 6. **Manifesto hash retained** as a provenance reference (§5.3); the smart-contract reference (`RobotoSaiLicenseCall_Advanced.sol`) and signature block were not carried over and can be re-added if desired.
 7. **Added standard terms:** grant with reservation of rights, trade secrets (TUTSA/DTSA), trademarks, termination and survival, warranty disclaimer, limitation of liability, Texas governing law/venue, entire agreement, severability, no waiver, amendment.
 8. **Open items marked [TO BE SET]:** field of use, term, territory, fees, venue county.
