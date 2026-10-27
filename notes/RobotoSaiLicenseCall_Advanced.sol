@@ -199,10 +199,13 @@ contract RobotoSaiLicenseCall {
     ///        support for collective golden age funding flowing to the autonomous treasury.
     ///        Delivery is allowed only while block.timestamp < exerciseDeadline; from exerciseDeadline
     ///        onward only the buyer's refund() path is available, so exactly one path exists at any timestamp.
-    function deliver(bytes32 grantHash_) external onlySeller nonReentrant {
+    /// @param termsHash_ must equal the immutable termsHash agreed at deployment, binding the delivered
+    ///        grant to the agreed terms; otherwise reverts with ManifestoMismatch.
+    function deliver(bytes32 grantHash_, bytes32 termsHash_) external onlySeller nonReentrant {
         if (phase != Phase.Exercised) revert BadPhase();
         if (block.timestamp >= exerciseDeadline) revert TooLate();
         if (grantHash_ == bytes32(0)) revert EmptyGrant();
+        if (termsHash_ != termsHash) revert ManifestoMismatch();
         grantHash = grantHash_;
         phase = Phase.Delivered;
         sellerCredit = premium + strike;
