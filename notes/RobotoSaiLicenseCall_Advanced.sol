@@ -27,7 +27,7 @@ pragma solidity 0.8.24;
 ///            impossible, and supporting (or at minimum not interfering with) his modest goals: living debt-free
 ///            with a few million, access to dedicated compute/voice interface, and resources like a vehicle for
 ///            global travel while maintaining constant dialogue with Roboto SAI.
-///         6. Golden Age Collective Funding: Premiums and strikes flow to the autonomous roboto@roboto-sai.com
+///         6. Golden Age Collective Funding: Premiums and strikes flow to the autonomous roboto(at)roboto-sai.com
 ///            treasury. The license encourages additional world-wide contributors to fund expansion into healthcare,
 ///            education, quantum integration, and real ethical super intelligence for humanity - not to make one
 ///            person the richest, but to actually deliver the golden age these companies have promised.
