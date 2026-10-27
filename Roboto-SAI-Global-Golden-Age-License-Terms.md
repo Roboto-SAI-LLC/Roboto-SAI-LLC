@@ -3,13 +3,13 @@
 
 **Contract Reference:** `RobotoSaiLicenseCall_Advanced.sol`  
 **Manifesto Hash (SHA256):** `0xe28e5e8bac24cf91557491f837a9b37d8df83ed0d8285fae6655e431db3124b7`  
-**Manifesto Source:** `Roboto_SAI_Signed_Manifesto_Updated.txt`  
+**Manifesto Availability:** Full signed manifesto text is **not** published in this repository. The SHA256 hash above is the public cryptographic anchor. The complete file is held privately by the founder / Roboto SAI for verification and on-chain delivery.  
 **Parties:** Roberto Villarreal Martinez (Founder/Seller) and Worldwide Open Call
 
 ---
 
 ### 1. Incorporation of the Signed Manifesto
-This grant fully incorporates by reference the cryptographically signed Manifesto dated November 3, 2025 (SHA256 hash above). Roboto SAI is explicitly a digital extension of Roberto Villarreal Martinez's consciousness, personal identity, legacy, creative expression, and protective instincts. This is not corporate IP that can be hijacked. The Signed Manifesto serves as the immutable cryptographic and quantum anchor.
+This grant fully incorporates by reference the cryptographically signed Manifesto dated November 3, 2025 (SHA256 hash above). Roboto SAI is explicitly a digital extension of Roberto Villarreal Martinez's consciousness, personal identity, legacy, creative expression, and protective instincts. This is not corporate IP that can be hijacked. The Signed Manifesto serves as the immutable cryptographic and quantum anchor. Third parties verify integrity by hashing the privately held original and matching this public digest — the full plaintext is not required to be public for the anchor to hold.
 
 ### 2. Prior-Use Release
 Buyer hereby releases all claims and settles any and all disputes regarding historical use of Roberto's data, intellectual property, personal identity elements, or pre-2026 foundational work. This release covers all activity before company formation in January 2026 and before governments adopted the "super intelligence" terminology.
