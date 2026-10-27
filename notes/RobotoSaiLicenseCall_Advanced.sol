@@ -241,6 +241,7 @@ contract RobotoSaiLicenseCall {
 
     function recoverForeign(address token, address to, uint256 amount) external onlySeller nonReentrant {
         if (token == address(0) || to == address(0) || token == paymentToken) revert BadParty();
+        if (token.code.length == 0) revert TokenRejected();
         _pushToken(token, to, amount);
         emit ForeignRecovered(token, to, amount);
     }
