@@ -197,9 +197,11 @@ contract RobotoSaiLicenseCall {
     ///        The PDF MUST incorporate the Signed Manifesto, prior-use release, attribution requirement,
     ///        personal identity protection ("Uno Reverse"), ethical accountability for big tech, and
     ///        support for collective golden age funding flowing to the autonomous treasury.
+    ///        Delivery is allowed only while block.timestamp < exerciseDeadline; from exerciseDeadline
+    ///        onward only the buyer's refund() path is available, so exactly one path exists at any timestamp.
     function deliver(bytes32 grantHash_) external onlySeller nonReentrant {
         if (phase != Phase.Exercised) revert BadPhase();
-        if (block.timestamp > exerciseDeadline) revert TooLate();
+        if (block.timestamp >= exerciseDeadline) revert TooLate();
         if (grantHash_ == bytes32(0)) revert EmptyGrant();
         grantHash = grantHash_;
         phase = Phase.Delivered;
@@ -215,9 +217,10 @@ contract RobotoSaiLicenseCall {
         emit Collected(premium);
     }
 
+    /// @notice Buyer refund, available only once block.timestamp >= exerciseDeadline (delivery window closed).
     function refund() external onlyBuyer nonReentrant {
         if (phase != Phase.Exercised) revert BadPhase();
-        if (block.timestamp <= exerciseDeadline) revert TooEarly();
+        if (block.timestamp < exerciseDeadline) revert TooEarly();
         phase = Phase.Refunded;
         buyerCredit = premium + strike;
         emit Refunded(buyer, premium + strike);
