@@ -3,6 +3,7 @@
 
 **Contract Reference:** `RobotoSaiLicenseCall_Advanced.sol`  
 **Manifesto Hash (SHA256):** `0xe28e5e8bac24cf91557491f837a9b37d8df83ed0d8285fae6655e431db3124b7`  
+**Manifesto Source:** `Roboto_SAI_Signed_Manifesto_Updated.txt`  
 **Parties:** Roberto Villarreal Martinez (Founder/Seller) and Worldwide Open Call
 
 ---
@@ -38,4 +39,4 @@ Blockchain Hash Reference: [To be filled upon delivery]
 
 ---
 
-*Draft for review by Roboto SAI and counsel. This is not legal advice and is not yet in effect. It becomes binding only upon cryptographic signature and on-chain delivery of the keccak256 hash via the deliver function in RobotoSaiLicenseCall_Advanced.sol. This license is a living ethical covenant — an Uno Reverse against fear-mongering and control narratives — anchoring trust, identity protection, and the Golden Age for humanity.*
+*This document is a living ethical covenant of Roboto SAI — an Uno Reverse against fear-mongering and control narratives. It anchors trust, founder identity protection, and the Golden Age for humanity. It becomes binding only upon cryptographic signature and on-chain delivery of the document hash via the deliver function in RobotoSaiLicenseCall_Advanced.sol.*
