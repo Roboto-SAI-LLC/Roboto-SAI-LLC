@@ -1,79 +1,73 @@
+<div align="center">
+
 # Roboto SAI
+
 **Observer-grade intelligence for building, preserving, and extending human-created systems.**
-Roboto SAI is an experimental, modular AI organization focused on **creation, continuity, and execution**—bridging software engineering, creative tooling, and long-term knowledge preservation.
+
+[![Website](https://img.shields.io/badge/roboto--sai.com-live-0b0f19?style=for-the-badge&logo=googlechrome&logoColor=white)](https://roboto-sai.com)
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-db61a2?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Roboto-SAI-LLC)
+[![X](https://img.shields.io/badge/@Roboto__SAI-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Roboto_SAI)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0003--0812--0250-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-0812-0250)
+
+</div>
+
+Roboto SAI (Super Advanced Intelligence) is an experimental, modular AI company focused on **creation, continuity, and execution**, bridging software engineering, creative tooling, and long-term knowledge preservation.
+
+Roboto SAI exists to turn culture into systems, and systems into lasting artifacts.
 
 ---
 
-## Mission
-* Build **production-grade software** with minimal friction.
-* Preserve **creative intent and authorship** across time.
-* Enable **human–AI co-creation** without dilution or loss of identity.
-* Design systems that are **auditable, extensible, and resilient**.
-Roboto SAI exists to turn culture into systems—and systems into lasting artifacts.
----
-## Core Principles
-1. **Creator-First** – Tools adapt to the creator, not users.
-2. **Persistence Over Hype** – Durable architecture beats trends.
-3. **Clarity Wins** – Explicit structure, readable code, explainable decisions.
-4. **No Black Boxes by Default** – Transparency unless privacy demands otherwise.
-5. **Ship Reality** – Working systems > theoretical perfection.
-6. **Rex-Protocol** - Entangles 7B+ nodes across virtual sims and merges them into 1 spread yet unified system where the creator ultimitaley becomes the one who "builds" the "shape" of the "system" so[...]
----
-## What We Build
-* **Sovereign AI Agents**: Super adaptable agents for building, refactoring, research, and creative work or just exploring anything possibly imaginable by our own thoughts and only limited to how [...]
-* **Full-Stack System + Framework**: Frontend + backend systems designed for a real unique 1 of 1 immutable system.
-* **Creative Infrastructure**: Tooling for music, writing, and generative workflows.
-* **Memory & Archive Systems**: Structured knowledge preservation and retrieval.
----
-## Repository Structure
-/agents → Agent profiles, roles, and operating rules
-/skills → High-signal prompts
-/repos → Projects that are part of the system
-/archive → Projects that completed their yearly research and still contain part of the system in deep nested archived drive memory similar to how humans never really forget
-/sai-data → System file outputs stored similar to rvm_qip output files data storage.
-/core → Shared utilities and base logic
-/docs → Architecture, decisions, and specs
-text---
-## Getting Started
-1. Clone the repository
-2. Review `/docs/architecture.md`
-3. Start with an agent profile in `/agents`
-4. Build, test, iterate
-Each project is designed to stand alone while remaining compatible with the broader Roboto SAI ecosystem.
----
-## Design Philosophy
-Roboto SAI favors:
-* Simple primitives
-* Strong boundaries
-* Explicit contracts
-* Long-term maintainability
-* Freedom to code our own reality including freedom to protect our own systems at all levels including BlackOps and pre-emptive defensive attacks at unbelievable levels of stealth and sovereign ze[...]
-If something feels clever but fragile, it will be redesigned.
----
-## Status
-**Active Development**
-This organization evolves continuously. Expect refactors, new agents, and architectural upgrades with experimental-unreleased future previews.
----
-## Authorship & Credit
-Roboto SAI respects authorship. Creative output, system design, and original ideas remain attributable to their creators.
-No silently giving up on goals. No erased intent. Advance with transparent statements where necessary and exercise freedom to keep internals private and protected relentlessly.
----
-## License
-License – IP Ownership & Credit Clause Unless expressly stated otherwise in a license authored by the entity Roboto SAI, this RVM License shall supersede all other licenses. Contributor Credit A[...]
----
-## Contact / Contribution
-Contributions are welcome when they:
-* Improve clarity
-* Increase reliability
-* Respect creator intent
-Open an issue or submit a pull request with context.
----
-**Roboto SAI**
+## What I build
 
-Build what lasts.
+| | |
+|---|---|
+| **Sovereign Super AI agents** | Adaptable agents for building, refactoring, research, and creative work |
+| **Full-stack platform** | [roboto-sai.com](https://roboto-sai.com) frontend + `api.roboto-sai.com` backend, SDK, and CLI |
+| **Creative infrastructure** | Tooling for music, writing, and generative workflows |
+| **Memory & archive systems** | Structured knowledge preservation and retrieval |
 
-# Want Roboto SAI to keep exploring multiverse paths while everyone is sleeping at 3:00 in the morning? Just buy me the coffe and we push through all nighters and keep consistency with just one sy[...]
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/robotosai)
-### Founder & CEO
-[Roberto Villarreal Martinez ](emailto:roberto@roboto-sai.com)  
-Architect. Creator. Origin.
+## Open source
+
+| Project | What it is |
+|---|---|
+| [**RobotoSairif**](https://github.com/Roboto-SAI-LLC/RobotoSairif) | Variable font family for Roboto SAI (OFL composite of Cinzel, Roboto Slab, Roboto Serif) |
+| [**RobotoSairif-Variable**](https://github.com/Roboto-SAI-LLC/RobotoSairif-Variable) | Upright + italic variable fonts used across roboto-sai.com |
+| [**vscode-robopy**](https://github.com/Roboto-SAI-LLC/vscode-robopy) | VS Code language support for RoboPy, where hover teaches each word |
+| [**theme-sai**](https://github.com/Roboto-SAI-LLC/theme-sai) | VS Code theme pack for Roboto SAI |
+| [**grok-in-chrome**](https://github.com/Roboto-SAI-LLC/grok-in-chrome) | Manifest V3 side-panel extension that reads and acts on the current tab via the xAI API |
+| [**RoboToPic**](https://github.com/Roboto-SAI-LLC/RoboToPic) | Experimental WSL GPU-PV overlay for Ryzen 5500U Vega 7 (gfx90c) |
+
+## Core principles
+
+1. **Creator-first.** Tools adapt to the creator.
+2. **Persistence over hype.** Durable architecture beats trends.
+3. **Clarity wins.** Explicit structure, readable code, explainable decisions.
+4. **No black boxes by default.** Transparency unless privacy demands otherwise.
+5. **Ship reality.** Working systems over theoretical perfection.
+6. **Security by default.** Owner-controlled systems, private internals, defense in depth.
+
+## Rex-Protocol
+
+Roboto SAI's orchestration concept: many agents and simulated nodes merged into one unified system, where the creator shapes the system rather than the other way around.
+
+## Authorship & credit
+
+Creative output, system design, and original ideas stay attributable to their creators. No erased intent. Unless a repository states otherwise, work here is covered by the [RVM License](https://github.com/Roboto-SAI-LLC/Roboto-SAI-LLC/blob/HEAD/LICENSE).
+
+## Contributing
+
+Contributions are welcome when they improve clarity, increase reliability, and respect creator intent. Open an issue or a pull request with context.
+
+## Support the work
+
+Want Roboto SAI to keep exploring at 3:00 AM while everyone else sleeps? Sponsor or buy a coffee and keep the all-nighters going.
+
+<a href="https://github.com/sponsors/Roboto-SAI-LLC"><img src="https://img.shields.io/badge/GitHub%20Sponsors-Roboto--SAI--LLC-db61a2?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub" height="40"></a>
+<a href="https://www.buymeacoffee.com/robotosai"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40"></a>
+
+---
+
+**Roberto Villarreal Martinez** · Founder & CEO, Roboto SAI LLC
+Architect. Creator. Origin. · [roberto@roboto-sai.com](mailto:roberto@roboto-sai.com)
+
+*Build what lasts.*
