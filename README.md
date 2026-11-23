@@ -52,7 +52,7 @@ Roboto SAI's orchestration concept: many agents and simulated nodes merged into 
 
 ## Authorship & credit
 
-Creative output, system design, and original ideas stay attributable to their creators. No erased intent. Unless a repository states otherwise, work Roberto owns is covered by the [RVM License](https://github.com/Roboto-SAI-LLC/Roboto-SAI-LLC/blob/HEAD/LICENSE). Forks keep their upstream licenses; the RobotoSairif fonts are under the SIL OFL. See [Licensing](https://github.com/Roboto-SAI-LLC/Roboto-SAI-LLC/blob/HEAD/LICENSING.md) for the public and partner tiers.
+Creative output, system design, and original ideas stay attributable to their creators. No erased intent. Unless a repository states otherwise, work Roberto owns is covered by the [RVM License](https://github.com/Roboto-SAI-LLC/Roboto-SAI-LLC/blob/HEAD/LICENSE). Forks keep their upstream licenses; the RobotoSairif fonts are under the SIL OFL. See [Licensing](https://github.com/Roboto-SAI-LLC/.github/blob/HEAD/LICENSING.md) for the public and partner tiers.
 
 ## Contributing
 
